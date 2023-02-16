@@ -1,6 +1,6 @@
 # ionic-ng-places-booking
 
-Software Requires:
+Software Requirements:
 
   - Ionic CLI 6.20.6
   - Angular CLI: 15.0.0
