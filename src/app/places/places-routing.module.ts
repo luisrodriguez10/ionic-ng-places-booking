@@ -27,7 +27,7 @@ const routes: Routes = [
     children: [
       {
         path: 'discover',
-        component: DiscoverPage,
+        // component: DiscoverPage,
         children: [
           {
             path: '',
@@ -41,7 +41,7 @@ const routes: Routes = [
       },
       {
         path: 'offers',
-        component: OffersPage,
+        // component: OffersPage,
         children: [
           {
             path: '',
